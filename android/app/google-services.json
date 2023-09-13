@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "753826641492",
+    "project_id": "bsocialp",
+    "storage_bucket": "bsocialp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753826641492:android:abea7295963a275ca25fc1",
+        "android_client_info": {
+          "package_name": "com.blake.social"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753826641492-v0rci84odojo9mcun7n8bs8mp547stqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNU4hDLJnu4AnDY_9R5OVeJpL_izckYnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753826641492-v0rci84odojo9mcun7n8bs8mp547stqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753826641492-ss9pfdbd56rma4lr8cjuj90e5ddf634h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.project.forum3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753826641492:android:6cc1ac2fd7217388a25fc1",
+        "android_client_info": {
+          "package_name": "com.project.forum3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753826641492-v0rci84odojo9mcun7n8bs8mp547stqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNU4hDLJnu4AnDY_9R5OVeJpL_izckYnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753826641492-v0rci84odojo9mcun7n8bs8mp547stqj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "753826641492-ss9pfdbd56rma4lr8cjuj90e5ddf634h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.project.forum3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

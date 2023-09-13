@@ -1,0 +1,2 @@
+
+const websreensize=600;
